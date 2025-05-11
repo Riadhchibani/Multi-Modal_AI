@@ -1,1 +1,1 @@
-# Multi-Modal_AI
+# Multi-Modal Fusion Model for Diabetic Retinopathy and Cardiovascular Risk Prediction
